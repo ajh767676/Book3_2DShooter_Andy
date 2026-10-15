@@ -6,6 +6,10 @@ A 2D space shooter created in Unity for the Book 3 Chapters 10–13 assignment.
 
 [Click here to play the WebGL version](https://ajh767676.github.io/Book3_2DShooter_Andy/WebGL/)
 
+## Database Note
+
+The Windows/Unity version connects successfully to the provided shooter database. In the WebGL version hosted on GitHub Pages, database requests may be blocked because GitHub Pages uses HTTPS while the provided database endpoints use HTTP. The game itself remains playable.
+
 ## How to Play
 
 - Use the arrow keys to move the spaceship.
